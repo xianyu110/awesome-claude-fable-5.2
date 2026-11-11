@@ -16,6 +16,8 @@ There are currently **58** entries. Every entry has a source URL we actually ope
 
 中文版：[README.md](./README.md). Structured data: [cases.json](./cases.json).
 
+Browse the [GitHub Pages catalog](https://xianyu110.github.io/awesome-claude-fable-5.2/).
+
 ## Categories
 
 | Category | Count |

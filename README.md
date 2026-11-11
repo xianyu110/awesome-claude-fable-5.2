@@ -16,6 +16,8 @@ Claude Fable 5.2 是 Anthropic 面向高难度技术工作、普遍可获得的�
 
 English version: [README.en.md](./README.en.md). 结构化数据：[cases.json](./cases.json)。
 
+浏览：[GitHub Pages 目录](https://xianyu110.github.io/awesome-claude-fable-5.2/)。
+
 ## 分类一览
 
 | 分类 | 条数 |
