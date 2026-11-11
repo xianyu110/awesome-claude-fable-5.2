@@ -19,7 +19,12 @@
     "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
     "author": "Anthropic",
     "date": "2026-11-09",
-    "source_type": "official"
+    "source_type": "official",
+    "image_url": "https://upload.maynor1024.live/file/1794385837939_prototype-operating-system.jpg",
+    "preview": {
+      "youtube_id": "vVy0BRouX6E",
+      "video_url": "https://assets.claude.com/36cbf7ed8431034d95a61bc6757fa975b26f0daf.webm"
+    }
   },
   {
     "id": "fermat-formalization-30h",
@@ -63,7 +68,12 @@
     "source_url": "https://www.anthropic.com/research/claude-electronics-design",
     "author": "Anthropic；Diode Computers（Craig Chen 等）",
     "date": "2026-11-09",
-    "source_type": "official"
+    "source_type": "official",
+    "image_url": "https://upload.maynor1024.live/file/1794385847263_voice-assistant-hub.png",
+    "preview": {
+      "youtube_id": "vdYynH177h0",
+      "video_url": "https://assets.claude.com/f079d087caf0316cf32a0e3e1864311c16887395.webm"
+    }
   },
   {
     "id": "usb-speakerphone",
@@ -74,7 +84,8 @@
     "source_url": "https://www.anthropic.com/research/claude-electronics-design",
     "author": "Anthropic；Diode Computers",
     "date": "2026-11-09",
-    "source_type": "official"
+    "source_type": "official",
+    "image_url": "https://upload.maynor1024.live/file/1794385850741_usb-speakerphone.png"
   },
   {
     "id": "handheld-virtual-pet",
@@ -107,7 +118,12 @@
     "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
     "author": "Anthropic",
     "date": "2026-11-09",
-    "source_type": "official"
+    "source_type": "official",
+    "image_url": "https://upload.maynor1024.live/file/1794385838102_physical-robot-control.jpg",
+    "preview": {
+      "youtube_id": "54Oajk23wbI",
+      "video_url": "https://assets.claude.com/55746b9b0dd3e76d36a38998162cc852d5f92edc.webm"
+    }
   },
   {
     "id": "vercel-week-long-projects",
@@ -327,7 +343,8 @@
     "source_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
     "author": "Ethan Mollick",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385859228_mollick-oneshot-video.png"
   },
   {
     "id": "mollick-codex-micro",
@@ -338,7 +355,8 @@
     "source_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
     "author": "Ethan Mollick",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385862041_mollick-codex-micro.png"
   },
   {
     "id": "mollick-prebid-brief",
@@ -349,7 +367,11 @@
     "source_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
     "author": "Ethan Mollick",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385866773_mollick-prebid-brief.png",
+    "preview": {
+      "play_url": "https://prebid-brief-demo.netlify.app/"
+    }
   },
   {
     "id": "mollick-auden-course",
@@ -360,7 +382,11 @@
     "source_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
     "author": "Ethan Mollick",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385871044_mollick-auden-course.png",
+    "preview": {
+      "play_url": "https://auden-english-135.netlify.app/"
+    }
   },
   {
     "id": "mollick-one-dollar-company",
@@ -371,7 +397,11 @@
     "source_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
     "author": "Ethan Mollick",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385876768_mollick-one-dollar-company.png",
+    "preview": {
+      "play_url": "https://the-one-dollar-company.netlify.app/"
+    }
   },
   {
     "id": "mollick-universal-story",
@@ -382,7 +412,11 @@
     "source_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
     "author": "Ethan Mollick",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385877792_mollick-universal-story.png",
+    "preview": {
+      "play_url": "https://is-there-a-universal-story.netlify.app/"
+    }
   },
   {
     "id": "mollick-portals",
@@ -393,7 +427,11 @@
     "source_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
     "author": "Ethan Mollick",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385874169_mollick-portals.png",
+    "preview": {
+      "play_url": "https://portals-endless-worlds.netlify.app/"
+    }
   },
   {
     "id": "shumer-voxel-engine",
@@ -407,8 +445,10 @@
     "source_type": "personal-blog",
     "preview": {
       "play_url": "https://www.spawn.co/@mattshumer/voxel-engine",
+      "video_url": "https://somethingbig.ai/assets/fable-5-2/media/voxel-film.mp4",
       "iframe": false
-    }
+    },
+    "image_url": "https://upload.maynor1024.live/file/1794385879533_shumer-voxel-engine.jpg"
   },
   {
     "id": "shumer-hogwarts-royale",
@@ -422,8 +462,10 @@
     "source_type": "personal-blog",
     "preview": {
       "play_url": "https://www.spawn.co/@mattshumer/hogwarts-royale",
+      "video_url": "https://somethingbig.ai/assets/fable-5-2/page/media/demo-hogwarts.mp4?v=2",
       "iframe": false
-    }
+    },
+    "image_url": "https://upload.maynor1024.live/file/1794385877639_shumer-hogwarts-royale.jpg"
   },
   {
     "id": "shumer-mirror-earth",
@@ -437,8 +479,10 @@
     "source_type": "personal-blog",
     "preview": {
       "play_url": "https://www.spawn.co/@mattshumer/earth?room=local",
+      "video_url": "https://somethingbig.ai/assets/fable-5-2/media/earth.mp4",
       "iframe": false
-    }
+    },
+    "image_url": "https://upload.maynor1024.live/file/1794385875768_shumer-mirror-earth.jpg"
   },
   {
     "id": "shumer-homepage-designs",
@@ -449,7 +493,11 @@
     "source_url": "https://somethingbig.ai/fable-5-2-everyday",
     "author": "Matt Shumer",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "image_url": "https://upload.maynor1024.live/file/1794385885223_shumer-homepage-designs.webp",
+    "preview": {
+      "video_url": "https://somethingbig.ai/assets/fable-5-2/page/media/demo-homepages.mp4"
+    }
   },
   {
     "id": "shumer-video",
@@ -482,7 +530,8 @@
     "source_url": "https://every.to/vibe-check/fable-5-2",
     "author": "Katie Parrott 报道；Kieran Klaassen 构建（Every）",
     "date": null,
-    "source_type": "news"
+    "source_type": "news",
+    "image_url": "https://upload.maynor1024.live/file/1794385864729_everycut.jpg"
   },
   {
     "id": "typed-page-typewriter",
@@ -498,7 +547,8 @@
       "play_url": "https://typed.page/",
       "iframe": true,
       "youtube_id": "sONvKt39t8k"
-    }
+    },
+    "image_url": "https://upload.maynor1024.live/file/1794385854481_typed-page-typewriter.jpg"
   },
   {
     "id": "aa-intelligence-index",
@@ -512,7 +562,8 @@
     "source_type": "independent-eval",
     "preview": {
       "x_url": "https://x.com/ArtificialAnlys/status/2119878995386982508"
-    }
+    },
+    "image_url": "https://upload.maynor1024.live/file/1794385852553_aa-intelligence-index.jpg"
   },
   {
     "id": "aa-3d",
@@ -578,7 +629,8 @@
     "source_url": "https://www.anthropic.com/research/claude-electronics-design",
     "author": "Anthropic；Diode Computers",
     "date": "2026-11-09",
-    "source_type": "official"
+    "source_type": "official",
+    "image_url": "https://upload.maynor1024.live/file/1794385854792_pcb-gym.png"
   },
   {
     "id": "terminal-bench-science",
