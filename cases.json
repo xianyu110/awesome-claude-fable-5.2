@@ -404,7 +404,11 @@
     "source_url": "https://somethingbig.ai/fable-5-2-everyday",
     "author": "Matt Shumer",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "preview": {
+      "play_url": "https://www.spawn.co/@mattshumer/voxel-engine",
+      "iframe": false
+    }
   },
   {
     "id": "shumer-hogwarts-royale",
@@ -415,7 +419,11 @@
     "source_url": "https://somethingbig.ai/fable-5-2-everyday",
     "author": "Matt Shumer",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "preview": {
+      "play_url": "https://www.spawn.co/@mattshumer/hogwarts-royale",
+      "iframe": false
+    }
   },
   {
     "id": "shumer-mirror-earth",
@@ -426,7 +434,11 @@
     "source_url": "https://somethingbig.ai/fable-5-2-everyday",
     "author": "Matt Shumer",
     "date": "2026-11-09",
-    "source_type": "personal-blog"
+    "source_type": "personal-blog",
+    "preview": {
+      "play_url": "https://www.spawn.co/@mattshumer/earth?room=local",
+      "iframe": false
+    }
   },
   {
     "id": "shumer-homepage-designs",
@@ -481,7 +493,12 @@
     "source_url": "https://www.youtube.com/watch?v=sONvKt39t8k",
     "author": "How I AI（YouTube 频道）",
     "date": "2026-11-09",
-    "source_type": "video"
+    "source_type": "video",
+    "preview": {
+      "play_url": "https://typed.page/",
+      "iframe": true,
+      "youtube_id": "sONvKt39t8k"
+    }
   },
   {
     "id": "aa-intelligence-index",
@@ -492,7 +509,10 @@
     "source_url": "https://x.com/ArtificialAnlys/status/2119878995386982508",
     "author": "Artificial Analysis",
     "date": "2026-11-09",
-    "source_type": "independent-eval"
+    "source_type": "independent-eval",
+    "preview": {
+      "x_url": "https://x.com/ArtificialAnlys/status/2119878995386982508"
+    }
   },
   {
     "id": "aa-3d",
